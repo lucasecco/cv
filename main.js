@@ -95,10 +95,10 @@ $('.chart').waypoint(function() {
 		$.vegas('slideshow', {
 			  backgrounds:[
 				
-				{ src:'https://dl.dropbox.com/s/b1zeguelopkaqn1/01.jpg', fade:1000 },
-				{ src:'https://dl.dropbox.com/s/0obpgt3k55tzxi3/02.jpg', fade:1000 },
-				{ src:'https://dl.dropbox.com/s/jbmfgi7w5geevhi/03.jpg', fade:1000 },
-				{ src:'https://dl.dropbox.com/s/syelusco5v77dxk/04.jpg', fade:1000 }
+				{ src:'./01.jpg', fade:1000 },
+				{ src:'./02.jpg', fade:1000 },
+				{ src:'./03.jpg', fade:1000 },
+				{ src:'./04.jpg', fade:1000 }
 			  ]
 			})('overlay', {
 			  src:'img/overlays/16.png'
