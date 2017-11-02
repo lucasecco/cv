@@ -26,18 +26,7 @@ a:link,a:visited {
 a:hover,a:active {
     text-decoration: none;
 }
-
-.l-param {
-			 color:inherit;
-			 }
-
-a.l-param {
-			 color:inherit; }
-
-a:l-param {
-	color:inherit;
-}
-			 
+		 
 a img {
     border: 0;
 }
