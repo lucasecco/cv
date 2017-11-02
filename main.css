@@ -31,7 +31,7 @@ a img {
     border: 0;
 }
 
-a.spec-1 {
+a:spec-1 {
     color:inherit;
 }
 
