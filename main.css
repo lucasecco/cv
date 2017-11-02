@@ -31,7 +31,7 @@ a img {
     border: 0;
 }
 
-a:spec-1 {
+a.spec-1 {
     color:inherit;
 }
 
@@ -375,10 +375,8 @@ background-color: transparent;
 }
 
 .section-subtitle {
-	color:white;
     text-align: center;
     padding:30px 0;
-   
 }
 
 
