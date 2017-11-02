@@ -27,13 +27,21 @@ a:hover,a:active {
     text-decoration: none;
 }
 
-.link-param {
+.l-param {
 			 color:inherit;
 			 }
 
+a.l-param {
+			 color:inherit; }
+
+a:l-param {
+	color:inherit;
+}
+			 
 a img {
     border: 0;
 }
+
 
 h1,h2,h3,h4,h5,h6{
     font-family: 'Oxygen', sans-serif;
